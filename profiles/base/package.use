@@ -1,0 +1,3 @@
+media-libs/mesa egl gles2 shared-glapi gdm
+media-libs/piglit waffle
+media-libs/waffle gbm
